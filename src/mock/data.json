@@ -1,0 +1,1233 @@
+{
+    "users": [
+        {
+            "username": "test01",
+            "password": "123456",
+            "phoneNumber": "18012345678",
+            "address": [
+                {
+                    "name": "张一",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                },
+                {
+                    "name": "张二",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                },
+                {
+                    "name": "张三",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                }
+            ]
+        },
+        {
+            "username": "test02",
+            "password": "654321",
+            "phoneNumber": "18012345678",
+            "address": [
+                {
+                    "name": "王一",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                },
+                {
+                    "name": "王二",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                },
+                {
+                    "name": "王三",
+                    "general": "江苏苏州",
+                    "phoneNumber": "18012345678",
+                    "details": "江苏省常熟高新技术产业开发区常熟理工学院东南校区x栋xxx"
+                }
+            ]
+        }
+    ],
+    "goodsList": {
+        "hw": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "热门手机",
+            "search": "华为",
+            "preview": [
+                "./static/手机数码电脑办公/hw/hw10.jpg",
+                "./static/手机数码电脑办公/hw/hw11.jpg",
+                "./static/手机数码电脑办公/hw/hw12.jpg",
+                "./static/手机数码电脑办公/hw/hw13.jpg"   
+            ],
+            "name": "HUAWEI Mate Xs",
+            "detailsName": "【5G折叠屏】Huawei/华为Mate Xs5G 超级快充四摄智能手机华为官方旗舰店matexs",
+            "price": "16999.00",
+            "address": "广东深圳",
+            "monthlySales": "934",
+            "commentsNum": "4469",
+            "points": "1699",
+            "params": [
+                {
+                    "name": "网络类型",
+                    "param": ["SA/NSA双模(5G)"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "机身颜色",
+                    "param": ["星际蓝"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配", "套餐一"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "存储容量",
+                    "param": ["8+512G", "12+512G"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/hw/hw0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/hw/hw50.jpg",
+                "./static/手机数码电脑办公/hw/hw51.jpg",
+                "./static/手机数码电脑办公/hw/hw52.jpg",
+                "./static/手机数码电脑办公/hw/hw53.jpg",
+                "./static/手机数码电脑办公/hw/hw54.jpg",
+                "./static/手机数码电脑办公/hw/hw55.jpg"
+            ],
+            "brandName": "Huawei/华为",
+            "detailsParams": [
+                "证书编号：2019011606260410",
+                "证书状态：有效",
+                "产品名称：5G数字移动电话机",
+                "3C规格型号：TAH-AN00m",
+                "产品名称：Huawei/华为 HUAWEI Mate",
+                "华为型号: HUAWEI Mate Xs",
+                "机身颜色: 星际蓝",
+                "运行内存RAM: 8GB",
+                "存储容量: 8+512GB",
+                "网络模式: 双卡双待",
+                "CPU型号: HUAWEI Kirin 990 5G"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/hw/hw20.jpg",
+                "./static/手机数码电脑办公/hw/hw21.jpg",
+                "./static/手机数码电脑办公/hw/hw22.jpg",
+                "./static/手机数码电脑办公/hw/hw23.jpg",
+                "./static/手机数码电脑办公/hw/hw24.jpg",
+                "./static/手机数码电脑办公/hw/hw25.jpg",
+                "./static/手机数码电脑办公/hw/hw26.jpg",
+                "./static/手机数码电脑办公/hw/hw27.jpg",
+                "./static/手机数码电脑办公/hw/hw28.jpg",
+                "./static/手机数码电脑办公/hw/hw29.jpg",
+                "./static/手机数码电脑办公/hw/hw30.jpg",
+                "./static/手机数码电脑办公/hw/hw31.jpg",
+                "./static/手机数码电脑办公/hw/hw32.jpg",
+                "./static/手机数码电脑办公/hw/hw33.jpg",
+                "./static/手机数码电脑办公/hw/hw34.jpg",
+                "./static/手机数码电脑办公/hw/hw35.jpg"
+            ],
+            "rate": 4.9,
+            "rateTagGood": [
+                "物流服务好(134)",
+                "运行速度快(102)",
+                "拍摄效果好(90)",
+                "颜值一流(66)",
+                "超上档次(66)"
+            ],
+            "rateTagBad": ["性价比低(41)"],
+            "commentDetails": [
+                {
+                    "content": "这个机子真是见过的最完美的 没有之一！！！！！ 其他特色：完美！ 拍照效果：好 电池续航：长 通信音质：好 运行速度：极快 显示效果：完美",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "星际蓝"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "12+512GB"
+                        }
+                    ],
+                    "name1": "t",
+                    "name2": "4"
+                },
+                {
+                    "content": "大气上档次，大爱。",
+                    "date": "12.10",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "星际蓝"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "套餐一"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "8+512GB"
+                        }
+                    ],
+                    "name1": "x",
+                    "name2": "u"
+                },
+                {
+                    "content": "非常完美",
+                    "date": "12.11",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "星际蓝"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "8+512GB"
+                        }
+                    ],
+                    "name1": "y",
+                    "name2": "5"
+                },
+                {
+                    "content": "商家发货很快 买过一会就发货了 物流也是相当给力 第二天早早就到了 收到以后迫不及待的打开 真的是非常好用 外观大气上档次 手机各方面性能都很给力 不愧是华为高端商务系列 非常好！非常喜欢！",
+                    "date": "12.14",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "星际蓝"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "套餐一"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "12+512GB"
+                        }
+                    ],
+                    "name1": "t",
+                    "name2": "2"
+                }
+            ]
+        },
+        "xm": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "热门手机",
+            "search": "小米",
+            "preview": [
+                "./static/手机数码电脑办公/xm/xm10.jpg",
+                "./static/手机数码电脑办公/xm/xm11.jpg",
+                "./static/手机数码电脑办公/xm/xm12.jpg",
+                "./static/手机数码电脑办公/xm/xm13.jpg",
+                "./static/手机数码电脑办公/xm/xm14.jpg"   
+            ],
+            "name": "小米10",
+            "detailsName": "【稀缺货源 立即购买】小米105g手机骁龙8651亿像素8K相机对称式立体声智能拍照游戏小米官方旗舰店小米手机",
+            "price": "4299.00",
+            "address": "北京",
+            "monthlySales": "1万+",
+            "commentsNum": "63928",
+            "points": "399",
+            "params": [
+                {
+                    "name": "网络类型",
+                    "param": ["SA/NSA双模(5G)"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "机身颜色",
+                    "param": ["冰海蓝", "钛银黑", "蜜桃金", "国风雅灰"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "存储容量",
+                    "param": ["8+128G", "8+256G", "12+256G"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/xm/xm0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/xm/xm50.jpg"
+            ],
+            "brandName": "Xiaomi/小米",
+            "detailsParams": [
+                "证书编号：2019011606252269",
+                "证书状态：有效",
+                "产品名称：5G数字移动电话机",
+                "3C规格型号：M2001J2E、M2001J2C",
+                "产品名称：Xiaomi/小米 小米10",
+                "型号: 小米10",
+                "机身颜色: 冰海蓝 钛银黑 蜜桃金 国风雅灰",
+                "运行内存RAM: 8GB 12GB",
+                "存储容量: 8+128GB 8+256GB 12+256GB",
+                "网络模式: 双卡双待",
+                "CPU型号: 骁龙865"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/xm/xm20.jpg",
+                "./static/手机数码电脑办公/xm/xm21.png",
+                "./static/手机数码电脑办公/xm/xm22.png",
+                "./static/手机数码电脑办公/xm/xm23.jpg",
+                "./static/手机数码电脑办公/xm/xm24.png",
+                "./static/手机数码电脑办公/xm/xm25.png",
+                "./static/手机数码电脑办公/xm/xm26.jpg",
+                "./static/手机数码电脑办公/xm/xm27.png",
+                "./static/手机数码电脑办公/xm/xm28.jpg",
+                "./static/手机数码电脑办公/xm/xm29.jpg",
+                "./static/手机数码电脑办公/xm/xm30.png",
+                "./static/手机数码电脑办公/xm/xm31.png",
+                "./static/手机数码电脑办公/xm/xm32.png",
+                "./static/手机数码电脑办公/xm/xm33.png",
+                "./static/手机数码电脑办公/xm/xm34.png",
+                "./static/手机数码电脑办公/xm/xm35.png",
+                "./static/手机数码电脑办公/xm/xm36.jpg",
+                "./static/手机数码电脑办公/xm/xm37.png",
+                "./static/手机数码电脑办公/xm/xm38.png",
+                "./static/手机数码电脑办公/xm/xm39.png",
+                "./static/手机数码电脑办公/xm/xm40.png",
+                "./static/手机数码电脑办公/xm/xm41.png",
+                "./static/手机数码电脑办公/xm/xm42.jpg"
+            ],
+            "rate": 4.7,
+            "rateTagGood": [
+                "运行速度快(1750)",
+                "拍摄效果好(1722)",
+                "颜值一流(1129)",
+                "性价比高(1006)",
+                "是正品哦(112)"
+            ],
+            "rateTagBad": ["电池容量小(404)"],
+            "commentDetails": [
+                {
+                    "content": "其他特色：特意使用了一段时间才过来评论，总体效果非常不错，暂时没有发现有问题的地方。 拍照效果：拍照效果不错，， 电池续航：充电半个小时左右充满，电池挺撑时间的。 运行速度：画面非常流畅，运行挺快。 显示效果：显示图片看电视剧什么的非常清晰。",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "钛银黑"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "12+256GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "发货有点慢，五天多才发货。暂时还没有碰到断流的情况，手机运行速度极快，昨天晚上看了两个小时电影略微有点发热。希望小米10经得住考验，五星好评",
+                    "date": "12.17",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "蜜桃金"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "12+256GB"
+                        }
+                    ],
+                    "name1": "t",
+                    "name2": "1"
+                },
+                {
+                    "content": "qq闪退，前几次卡屏，*机动不了，很多问题，今天又是连不上网，而家里的另一部手机能连上，这才购买短短一个月，真的很失望，这还是4000元的手机，小米的水准就是这样吗？消费者买单吗？这是什么质量，一个月客服让我去维修点检测，也是有点搞笑",
+                    "date": "11.26",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "蜜桃金"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "8+256GB"
+                        }
+                    ],
+                    "name1": "一",
+                    "name2": "4"
+                },
+                {
+                    "content": "算个米粉。用了这是一个月左右的样子，还是略失望的，手机有时卡顿 ，连耳机的时候拔下来手机还显示连着耳机，像素也没有吹嘘的那么好。音效倒是真的不错，用下来的感觉就是还不如米六流畅，要不是米六内存不足我也不会换的。满分十分我可能会打七分，小米还需要再优化啊。电量也够用 一天一冲差不多",
+                    "date": "12.18",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "SA/NSA双模(5G)"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "国风雅灰"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "8+256GB"
+                        }
+                    ],
+                    "name1": "张",
+                    "name2": "d"
+                }
+            ]
+        },
+        "xsq": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "游戏组件",
+            "search": "显示器",
+            "preview": [
+                "./static/手机数码电脑办公/xsq/xsq10.jpg",
+                "./static/手机数码电脑办公/xsq/xsq11.jpg",
+                "./static/手机数码电脑办公/xsq/xsq12.jpg",
+                "./static/手机数码电脑办公/xsq/xsq13.jpg",
+                "./static/手机数码电脑办公/xsq/xsq14.jpg"   
+            ],
+            "name": "AOC CU34G2X",
+            "detailsName": "AOC CU34G2X 34英寸准4K超清带鱼屏144Hz电竞21:9显示器2K升降G2钢炮HDR外接笔记本PS4高清显示屏32屏幕NS27",
+            "price": "2399.00",
+            "address": "安徽芜湖",
+            "monthlySales": "874",
+            "commentsNum": "4241",
+            "points": "239",
+            "params": [
+                {
+                    "name": "颜色分类",
+                    "param": ["黑色"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/xsq/xsq0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/xsq/xsq0.jpg"
+            ],
+            "brandName": "AOC",
+            "detailsParams": [
+                "证书编号：2019010903238635",
+                "证书状态：有效",
+                "产品名称：液晶显示器",
+                "产品名称：AOC CU34G2X",
+                "型号: CU34G2X",
+                "品牌: AOC",
+                "冠捷型号: CU34G2X",
+                "成色: 全新",
+                "售后服务: 全国联保",
+                "屏幕尺寸: 34英寸",
+                "屏幕比例: 21:9",
+                "接口类型: HDMI DP 音频"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/xsq/xsq20.jpg",
+                "./static/手机数码电脑办公/xsq/xsq21.jpg",
+                "./static/手机数码电脑办公/xsq/xsq22.jpg",
+                "./static/手机数码电脑办公/xsq/xsq23.jpg",
+                "./static/手机数码电脑办公/xsq/xsq24.jpg",
+                "./static/手机数码电脑办公/xsq/xsq25.jpg",
+                "./static/手机数码电脑办公/xsq/xsq26.jpg",
+                "./static/手机数码电脑办公/xsq/xsq27.jpg",
+                "./static/手机数码电脑办公/xsq/xsq28.jpg"
+            ],
+            "rate": 4.8,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "性价比高(20)",
+                "显示效果好(18)",
+                "大小合适(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(18)"],
+            "commentDetails": [
+                {
+                    "content": "安装简单，屏幕很好，非常完美，屏幕还自带U**接口，喜欢的赶快下单吧，真心不错",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "黑色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "安装简单，屏幕很好，非常完美，屏幕还自带U**接口，喜欢的赶快下单吧，真心不错",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "黑色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "安装简单，屏幕很好，非常完美，屏幕还自带U**接口，喜欢的赶快下单吧，真心不错",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "黑色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "安装简单，屏幕很好，非常完美，屏幕还自带U**接口，喜欢的赶快下单吧，真心不错",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "黑色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        },
+        "iphone": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "热门手机",
+            "search": "iphone",
+            "preview": [
+                "./static/手机数码电脑办公/iphone/iphone10.jpg",
+                "./static/手机数码电脑办公/iphone/iphone11.jpg",
+                "./static/手机数码电脑办公/iphone/iphone12.jpg",
+                "./static/手机数码电脑办公/iphone/iphone13.jpg",
+                "./static/手机数码电脑办公/iphone/iphone14.jpg"   
+            ],
+            "name": "iPhone 12 Pro Max",
+            "detailsName": " 【现货速发】Apple/苹果 iPhone 12 Pro Max移动联通电信全网通5G新品智能手机",
+            "price": "10099.00",
+            "address": "上海",
+            "monthlySales": "1199",
+            "commentsNum": "877",
+            "points": "1009",
+            "params": [
+                {
+                    "name": "网络类型",
+                    "param": ["无需合约版"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "机身颜色",
+                    "param": ["石墨色", "金色", "海蓝色", "银色"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "存储容量",
+                    "param": ["128G", "256G"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/iphone/iphone0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/iphone/iphone50.jpg"
+            ],
+            "brandName": "Apple/苹果",
+            "detailsParams": [
+                "产品名称：Apple/苹果 iPhone 12 Pr...",
+                "Apple型号: iPhone 12 Pro Max",
+                "机身颜色: 石墨色 海蓝色 银色 金色",
+                "存储容量: 128GB 256GB 512GB"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/iphone/iphone20.jpg"
+            ],
+            "rate": 4.8,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "拍摄效果好(20)",
+                "待电时间长(18)",
+                "运行速度快(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(16)"],
+            "commentDetails": [
+                {
+                    "content": "其他特色：非常好！比官方网站便宜的多 拍照效果：很好！很棒！12真比11香 电池续航：很好！续航很长！ 通信音质：信号特别好！从不慢 运行速度：很好！很流畅 显示效果：很好",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "无需合约版"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "金色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "256GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "其他特色：非常好！比官方网站便宜的多 拍照效果：很好！很棒！12真比11香 电池续航：很好！续航很长！ 通信音质：信号特别好！从不慢 运行速度：很好！很流畅 显示效果：很好",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "无需合约版"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "金色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "256GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "其他特色：非常好！比官方网站便宜的多 拍照效果：很好！很棒！12真比11香 电池续航：很好！续航很长！ 通信音质：信号特别好！从不慢 运行速度：很好！很流畅 显示效果：很好",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "无需合约版"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "金色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "256GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "其他特色：非常好！比官方网站便宜的多 拍照效果：很好！很棒！12真比11香 电池续航：很好！续航很长！ 通信音质：信号特别好！从不慢 运行速度：很好！很流畅 显示效果：很好",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "网络类型",
+                            "param": "无需合约版"
+                        },
+                        {
+                            "name": "机身颜色",
+                            "param": "金色"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        },
+                        {
+                            "name": "存储容量",
+                            "param": "256GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        },
+        "jxjp": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "游戏组件",
+            "search": "机械键盘",
+            "preview": [
+                "./static/手机数码电脑办公/jxjp/jxjp10.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp11.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp12.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp13.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp14.jpg"   
+            ],
+            "name": "DURGOD杜伽K320",
+            "detailsName": "DURGOD杜伽K320/K310cherry樱桃轴机械键盘87键104键有线办公背光吃鸡电竞游戏专用静音红黑青茶银轴笔记本",
+            "price": "489.00",
+            "address": "广东广州",
+            "monthlySales": "925",
+            "commentsNum": "8256",
+            "points": "48",
+            "params": [
+                {
+                    "name": "颜色分类",
+                    "param": ["灰白", "深灰"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/jxjp/jxjp0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/xm/xm50.jpg"
+            ],
+            "brandName": "DURGOD/杜伽",
+            "detailsParams": [
+                "产品名称：DURGOD/杜伽 TAURUS K310",
+                "品牌: DURGOD/杜伽",
+                "型号: TAURUS K310/K320",
+                "成色: 全新",
+                "售后服务: 店铺三包",
+                "接口类型: USB",
+                "套餐类型: 官方标配",
+                "连接方式: 有线",
+                "是否有多媒体功能键: 有",
+                "保修期: 12个月"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/jxjp/jxjp20.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp21.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp22.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp23.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp24.jpg",
+                "./static/手机数码电脑办公/jxjp/jxjp25.jpg"
+            ],
+            "rate": 4.9,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "手感超赞(20)",
+                "性价比高(18)",
+                "颜值一流(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(16)"],
+            "commentDetails": [
+                {
+                    "content": "按压触感：手感很丝滑 外观体验：各花入各眼 整体评价：接线口设计很用心，卡的很好，两种线，很细节",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "深灰"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "按压触感：手感很丝滑 外观体验：各花入各眼 整体评价：接线口设计很用心，卡的很好，两种线，很细节",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "深灰"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "按压触感：手感很丝滑 外观体验：各花入各眼 整体评价：接线口设计很用心，卡的很好，两种线，很细节",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "深灰"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "按压触感：手感很丝滑 外观体验：各花入各眼 整体评价：接线口设计很用心，卡的很好，两种线，很细节",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "深灰"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        },
+        "sb": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "游戏组件",
+            "search": "游戏手柄",
+            "preview": [
+                "./static/手机数码电脑办公/sb/sb10.jpg",
+                "./static/手机数码电脑办公/sb/sb11.jpg",
+                "./static/手机数码电脑办公/sb/sb12.jpg",
+                "./static/手机数码电脑办公/sb/sb13.jpg",
+                "./static/手机数码电脑办公/sb/sb14.jpg"   
+            ],
+            "name": "Xbox Series X/S 游戏手柄",
+            "detailsName": "微软 Xbox 无线控制器 2020 冰雪白 磨砂黑 波动蓝手柄 Xbox One官方配件 Xbox Series X/S 游戏手柄 新款",
+            "price": "429.00",
+            "address": "上海",
+            "monthlySales": "2280",
+            "commentsNum": "461",
+            "points": "42",
+            "params": [
+                {
+                    "name": "颜色分类",
+                    "param": ["冰雪白", "磨砂黑"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/sb/sb0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/sb/sb50.jpg"
+            ],
+            "brandName": "xbox",
+            "detailsParams": [
+                "品牌: xbox",
+                "型号: Xbox Elite无线控制器系列二代",
+                "颜色分类: 冰雪白 磨砂黑",
+                "生产企业: Xbox"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/sb/sb20.jpg",
+                "./static/手机数码电脑办公/sb/sb21.jpg",
+                "./static/手机数码电脑办公/sb/sb22.jpg",
+                "./static/手机数码电脑办公/sb/sb23.jpg",
+                "./static/手机数码电脑办公/sb/sb24.jpg",
+                "./static/手机数码电脑办公/sb/sb25.jpg"
+            ],
+            "rate": 4.8,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "手感超赞(20)",
+                "性价比高(18)",
+                "颜值一流(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(16)"],
+            "commentDetails": [
+                {
+                    "content": "和介绍的一样，用着感觉不错，硅胶套摇杆帽通通安排上，再换上可充电的电池简直不要太舒服 整体评价：手感非常不错 流畅度：蓝牙无延迟，用着很丝滑 外形外观：外感一如既往的经典，白色耐看些，",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "冰雪白"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "和介绍的一样，用着感觉不错，硅胶套摇杆帽通通安排上，再换上可充电的电池简直不要太舒服 整体评价：手感非常不错 流畅度：蓝牙无延迟，用着很丝滑 外形外观：外感一如既往的经典，白色耐看些，",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "冰雪白"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "和介绍的一样，用着感觉不错，硅胶套摇杆帽通通安排上，再换上可充电的电池简直不要太舒服 整体评价：手感非常不错 流畅度：蓝牙无延迟，用着很丝滑 外形外观：外感一如既往的经典，白色耐看些，",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "冰雪白"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        },
+        "cpu": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "硬件存储",
+            "search": "cpu",
+            "preview": [
+                "./static/手机数码电脑办公/cpu/cpu10.jpg",
+                "./static/手机数码电脑办公/cpu/cpu11.jpg",
+                "./static/手机数码电脑办公/cpu/cpu12.png",
+                "./static/手机数码电脑办公/cpu/cpu13.jpg",
+                "./static/手机数码电脑办公/cpu/cpu14.jpg"   
+            ],
+            "name": "intel/英特尔酷睿i5-10600KF",
+            "detailsName": "intel/英特尔酷睿i5-10600KF 6核12线程盒装CPU 台式游戏电脑",
+            "price": "1299.00",
+            "address": "安徽芜湖",
+            "monthlySales": "290",
+            "commentsNum": "195",
+            "points": "129",
+            "params": [
+                {
+                    "name": "颜色分类",
+                    "param": ["i5-10600KF"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "套餐类型",
+                    "param": ["官方标配"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/cpu/cpu0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/xm/xm50.jpg"
+            ],
+            "brandName": "Intel/英特尔",
+            "detailsParams": [
+                "产品名称：Intel/英特尔 i5-10600k...",
+                "品牌: Intel/英特尔",
+                "Intel型号: i5-10600K",
+                "成色: 全新",
+                "售后服务: 其他/other",
+                "接口类型: Intel其他",
+                "颜色分类: i5-10600kF",
+                "CPU主频: 4.7GHz",
+                "生产企业: intel"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/cpu/cpu20.jpg",
+                "./static/手机数码电脑办公/cpu/cpu21.jpg",
+                "./static/手机数码电脑办公/cpu/cpu22.jpg",
+                "./static/手机数码电脑办公/cpu/cpu23.jpg",
+                "./static/手机数码电脑办公/cpu/cpu24.jpg",
+                "./static/手机数码电脑办公/cpu/cpu25.jpg"
+            ],
+            "rate": 4.8,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "手感超赞(20)",
+                "性价比高(18)",
+                "颜值一流(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(16)"],
+            "commentDetails": [
+                {
+                    "content": "整体评价：完美，产品很惊艳，性价比合适，希望用的长久！ 使用体验：高颜值，高品质，非常好，一分钱一分货，材质外观和质量一看就很上档次，非常喜欢",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "i5-10600kF"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "整体评价：完美，产品很惊艳，性价比合适，希望用的长久！ 使用体验：高颜值，高品质，非常好，一分钱一分货，材质外观和质量一看就很上档次，非常喜欢",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "i5-10600kF"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "整体评价：完美，产品很惊艳，性价比合适，希望用的长久！ 使用体验：高颜值，高品质，非常好，一分钱一分货，材质外观和质量一看就很上档次，非常喜欢",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "i5-10600kF"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "整体评价：完美，产品很惊艳，性价比合适，希望用的长久！ 使用体验：高颜值，高品质，非常好，一分钱一分货，材质外观和质量一看就很上档次，非常喜欢",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "i5-10600kF"
+                        },
+                        {
+                            "name": "套餐类型",
+                            "param": "官方标配"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        },
+        "xk": {
+            "primaryClassification": "手机/数码/电脑办公",
+            "secondaryClassification": "硬件存储",
+            "search": "显卡",
+            "preview": [
+                "./static/手机数码电脑办公/xk/xk10.jpg",
+                "./static/手机数码电脑办公/xk/xk11.jpg",
+                "./static/手机数码电脑办公/xk/xk12.jpg",
+                "./static/手机数码电脑办公/xk/xk13.jpg",
+                "./static/手机数码电脑办公/xk/xk14.jpg"   
+            ],
+            "name": "RTX3080显卡",
+            "detailsName": "七彩虹iGame RTX3080显卡火神/Ultra/AD/战斧超频电脑独显10G现货",
+            "price": "10299.00",
+            "address": "广东广州",
+            "monthlySales": "118",
+            "commentsNum": "172",
+            "points": "1029",
+            "params": [
+                {
+                    "name": "颜色分类",
+                    "param": ["iGame RTX3080"],
+                    "currentNumber": 0
+                },
+                {
+                    "name": "显存容量",
+                    "param": ["10GB"],
+                    "currentNumber": 0
+                }
+            ],
+            "goodsImg": "./static/手机数码电脑办公/xk/xk0.jpg",
+            "ggImg": [
+                "./static/手机数码电脑办公/xm/xm50.jpg"
+            ],
+            "brandName": "Colorful/七彩虹",
+            "detailsParams": [
+                "产品名称：Colorful/七彩虹 RTX 308",
+                "品牌: Colorful/七彩虹",
+                "七彩虹: RTX 3080",
+                "成色: 全新",
+                "售后服务: 全国联保",
+                "显存容量: 10GB",
+                "输出接口: HDMI DP DP X 2",
+                "显存位宽: 320bit",
+                "显存类型: GDDR6X"
+            ],
+            "xqImg": [
+                "./static/手机数码电脑办公/xk/xk20.jpg",
+                "./static/手机数码电脑办公/xk/xk21.jpg",
+                "./static/手机数码电脑办公/xk/xk22.jpg",
+                "./static/手机数码电脑办公/xk/xk23.jpg",
+                "./static/手机数码电脑办公/xk/xk24.jpg",
+                "./static/手机数码电脑办公/xk/xk25.jpg"
+            ],
+            "rate": 4.9,
+            "rateTagGood": [
+                "物流服务好(62)",
+                "手感超赞(20)",
+                "性价比高(18)",
+                "颜值一流(13)",
+                "是正品哦(13)"
+            ],
+            "rateTagBad": ["物流服务差(16)"],
+            "commentDetails": [
+                {
+                    "content": "孩子很喜欢，上网课也不卡了。",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "iGame RTX 3080"
+                        },
+                        {
+                            "name": "显存容量",
+                            "param": "10GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "孩子很喜欢，上网课也不卡了。",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "iGame RTX 3080"
+                        },
+                        {
+                            "name": "显存容量",
+                            "param": "10GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "孩子很喜欢，上网课也不卡了。",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "iGame RTX 3080"
+                        },
+                        {
+                            "name": "显存容量",
+                            "param": "10GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                },
+                {
+                    "content": "孩子很喜欢，上网课也不卡了。",
+                    "date": "12.09",
+                    "params": [
+                        {
+                            "name": "颜色分类",
+                            "param": "iGame RTX 3080"
+                        },
+                        {
+                            "name": "显存容量",
+                            "param": "10GB"
+                        }
+                    ],
+                    "name1": "m",
+                    "name2": "8"
+                }
+            ]
+        }
+    }
+}
